@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+#application-root{
+    padding-top: 5vh;
+}
+#container{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+p {
+    font-size: 1.25em;
+}
+#Education li{
+    margin-top: 4vh;
+}
+#Education ul{
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+
+#works li{
+    font-size: 1.25em;
+    margin-bottom: 4vh;
+    border: 1px solid black;
+    box-shadow: 5px 10px black;
+}
+
+#works{
+    margin-bottom: 10vh;
+}
